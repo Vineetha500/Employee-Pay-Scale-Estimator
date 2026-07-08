@@ -1,0 +1,76 @@
+# =========================
+# Python
+# =========================
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+
+# =========================
+# Jupyter Notebook
+# =========================
+
+.ipynb_checkpoints/
+
+
+# =========================
+# Streamlit
+# =========================
+
+.streamlit/
+
+
+# =========================
+# IDE Files
+# =========================
+
+.vscode/
+.idea/
+
+
+# =========================
+# OS Generated Files
+# =========================
+
+.DS_Store
+Thumbs.db
+
+
+# =========================
+# Logs & Temporary Files
+# =========================
+
+*.log
+*.tmp
+
+
+# =========================
+# Environment Variables
+# =========================
+
+.env
+.env.*
+
+
+# =========================
+# Model Training Outputs
+# =========================
+
+# Uncomment these if you don't want to upload large models
+# *.pkl
+# *.joblib
+
+
+# =========================
+# Data Files (Optional)
+# =========================
+
+# Uncomment if dataset is large/private
+# *.csv
+# *.xlsx
