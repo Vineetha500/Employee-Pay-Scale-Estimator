@@ -250,5 +250,4 @@ Streamlit Deployment
 | Experience     | Years of experience       |
 
 =======
-# Employee-Pay-Scale-Estimator
->>>>>>> dff44483abbfcca6e502b7f922f86bf7c4b30f62
+
