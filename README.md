@@ -138,7 +138,7 @@ Employee-Salary-Classification-ML
 ## 1. Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Employeepayscalestimator
+git clone https://github.com/Vineetha500/Employee-Pay-Scale-Estimator.git
 ```
 
 ## 2. Navigate into Project
