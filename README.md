@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💼 Employee Salary Classification using Machine Learning
 
 <p align="center">
@@ -251,3 +252,6 @@ Streamlit Deployment
 | Hours per week | Weekly working hours      |
 | Experience     | Years of experience       |
 
+=======
+# Employee-Pay-Scale-Estimator
+>>>>>>> dff44483abbfcca6e502b7f922f86bf7c4b30f62
