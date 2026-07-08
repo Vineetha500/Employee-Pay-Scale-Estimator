@@ -1,9 +1,6 @@
-<<<<<<< HEAD
+
 # 💼 Employee Salary Classification using Machine Learning
 
-<p align="center">
-  <img src="images/banner.png" alt="Employee Salary Classification" width="800"/>
-</p>
 
 <p align="center">
   <b>An end-to-end Machine Learning application that predicts employee salary class using Gradient Boosting and Streamlit.</b>
